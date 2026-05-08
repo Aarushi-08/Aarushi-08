@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aarushi 👋
 
-<!--
-**Aarushi-08/Aarushi-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science student (2nd Year)  
+💻 Learning Python and Java  
+🚀 Exploring CSS and HTML
+📂 Practicing CRUD operations 
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Python, HTML, CSS
+- Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: aarushi.phansekar08@gmail.com  
+
+## ⚡ Fun fact
+For me, coding isn’t just about output — it’s about the journey of understanding.
