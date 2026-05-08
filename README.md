@@ -6,8 +6,10 @@
 📂 Practicing CRUD operations 
 
 ## 🔧 Skills
-- Programming: Python, HTML, CSS
+- Programming: Python,Java
+- Web Development: HTML, CSS
 - Databases: MySQL
+- Tools: MS Excel, Word, PowerPoint
 
 ## 📫 How to reach me
 - Email: aarushi.phansekar08@gmail.com  
