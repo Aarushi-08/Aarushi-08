@@ -2,8 +2,7 @@
 
 🎓 B.Sc. Computer Science student (2nd Year)  
 💻 Learning Python and Java  
-🚀 Exploring CSS and HTML
-
+🚀 Exploring CSS and HTML      
 📂 Practicing CRUD operations 
 
 ## 🔧 Skills
